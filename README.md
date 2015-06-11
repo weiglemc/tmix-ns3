@@ -3,9 +3,9 @@
 Modules for including the Tmix Internet Traffic Generator in the ns-3 network simulator.  This includes both Tmix and Delaybox.
 
 Code is available in the [Releases](https://github.com/weiglemc/tmix-ns3/releases) section for ns-3.14.1 and earlier.  Code is available at http://www.nsnam.org for later versions.  We have versions available for
- * ns-3.21 - see [Tmix in ns-3.21 Instructions](http://code.google.com/p/tmix-ns3/wiki/Tmixns321)
- * ns-3.13, ns-3.14.1 - see [Tmix in ns-3.13 and ns-3.14.1 Instructions](http://code.google.com/p/tmix-ns3/wiki/Tmixns313)  - *Many thanks to Mats Rosbach from University of Oslo for providing compatibility with ns-3.13 and ns-3.14.1*
- * ns-3.10 - see [Tmix in ns-3.10 instructions](http://code.google.com/p/tmix-ns3/wiki/Tmixns310)
+ * ns-3.21 - see [Tmix in ns-3.21 Instructions](https://github.com/weiglemc/tmix-ns3/wiki/Tmix-in-ns-3.21)
+ * ns-3.13, ns-3.14.1 - see [Tmix in ns-3.13 and ns-3.14.1 Instructions](https://github.com/weiglemc/tmix-ns3/wiki/Tmix-in-ns-3.13-and-ns-3.14.1)  - *Many thanks to Mats Rosbach from University of Oslo for providing compatibility with ns-3.13 and ns-3.14.1*
+ * ns-3.10 - see [Tmix in ns-3.10 instructions](https://github.com/weiglemc/tmix-ns3/wiki/Tmix-in-ns-3.10)
 
 Note: The source code is delivered 'as-is', and we cannot offer any support. Code last updated in 2012.
 
